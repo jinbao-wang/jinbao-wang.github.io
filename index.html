@@ -189,6 +189,38 @@
       </td>
     </tr>
 
+    <tr onmouseout="softpatch_stop()" onmouseover="softpatch_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/softpatch.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function softpatch_start() {
+            document.getElementById('softpatch_image').style.opacity = "1";
+          }
+          function softpatch_stop() {
+            document.getElementById('softpatch_image').style.opacity = "0";
+          }
+          softpatch_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://arxiv.org/pdf/2201.12589.pdf">
+          <papertitle>SoftPatch: Unsupervised Anomaly Detection with Noisy Data</papertitle>
+        </a>
+        <br>
+        Xi Jiang, Jianlin Liu, <strong>Jinbao Wang</strong>†, Qiang Nie, W. U. Kai, Yong Liu, Chengjie Wang, and Feng Zheng†.
+        <br>
+        <em>NeurIPS</em>, 2022
+        <br>
+        <a href="https://openreview.net/pdf?id=pIYYJflkhZ">openreview</a>
+        <p></p>
+        <p>
+          we proposed a memory-based unsupervised AD method, which efficiently denoises the data at the patch level.
+        </p>
+      </td>
+    </tr>
+
     <tr onmouseout="fedmedatl_stop()" onmouseover="fedmedatl_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
