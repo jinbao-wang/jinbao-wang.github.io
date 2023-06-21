@@ -445,6 +445,37 @@
       </td>
     </tr>
 
+    <tr onmouseout="dehazemsrcr_stop()" onmouseover="dehazemsrcr_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/dehazemsrcr.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function dehazemsrcr_start() {
+            document.getElementById('dehazemsrcr_image').style.opacity = "1";
+          }
+          function dehazemsrcr_stop() {
+            document.getElementById('dehazemsrcr_image').style.opacity = "0";
+          }
+          dehazemsrcr_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://ieeexplore.ieee.org/abstract/document/7984895">
+          <papertitle>Single Image Dehazing Based on the Physical Model and MSRCR Algorithm</papertitle>
+        </a>
+        <br>
+        <strong>Jinbao Wang</strong>, Ke Lu, Jian Xue, Ning He, Ling Shao
+        <br>
+        <em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)</em>, 2017
+        <br>
+        <a href="https://ieeexplore.ieee.org/abstract/document/7984895">ieeexplore</a>
+        <p></p>
+        <p>
+          we propose a single image dehazing method based on a physical model and the brightness components of the image by using a multi-scale retinex with color restoration algorithm.
+        </p>
+      </td>
+    </tr>
 
     <tr onmouseout="dehazedcp_stop()" onmouseover="dehazedcp_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -466,7 +497,7 @@
           <papertitle>Single Image Dehazing with a Physical Model and Dark Channel Prior</papertitle>
         </a>
         <br>
-        <strong>Jinbao Wang</strong>*, Ning He, Lu-Lu Zhang, Ke Lu 
+        <strong>Jinbao Wang</strong>, Ning He, Lu-Lu Zhang, Ke Lu 
         <br>
         <em>Neurocomputing</em>, 2015
         <br>
