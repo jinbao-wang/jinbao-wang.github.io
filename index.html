@@ -445,6 +445,39 @@
       </td>
     </tr>
 
+    <tr onmouseout="posesurvey_stop()" onmouseover="posesurvey_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/posesurvey.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function posesurvey_start() {
+            document.getElementById('posesurvey_image').style.opacity = "1";
+          }
+          function posesurvey_stop() {
+            document.getElementById('posesurvey_image').style.opacity = "0";
+          }
+          posesurvey_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1077314221000692">
+          <papertitle>Deep 3D Human Pose Estimation: A Review</papertitle>
+        </a>
+        <br>
+        <strong>Jinbao Wang</strong>*, Shujie Tan*, Xiantong Zhen, Shuo Xu, Feng Zheng, Zhenyu He, and Ling Shao
+        <br>
+        <em>Computer Vision and Image Understanding (CVIU)</em>, 2023
+        <br>
+        <a href="https://www.sciencedirect.com/science/article/pii/S1077314221000692">sciencedirect</a>
+        <p></p>
+        <p>
+          The recent methods for deep 3D pose estimation are categorized and thoroughly analyzed.
+        </p>
+      </td>
+    </tr>
+
+
     <tr onmouseout="dehazemsrcr_stop()" onmouseover="dehazemsrcr_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
