@@ -7,3 +7,8 @@ Research Outcomes:
 
 Published 20+ papers in important international journals and conferences, such as TIP, TCSVT, Neurocomputing, ICCV, ACM MM, NeurIPS, etc., with a total of 600+ citations and 1 highly cited article. 
 Currently serving as a reviewer for top international journals such as IEEE TIP and IEEE TCSVT, as well as a member and reviewer of the AAAI, IJCAI, ACM MM, ICML, and other top artificial intelligence conference procedures committees.
+
+主持项目：
+1. 2023年01月-2025年12月，面向工业视觉的高效能三维异常检测算法研究(国家自然科学基金青年基金，项目号62206122, 30万)
+2. 2023年04月-2023年08月，柔性静电吸附辅助的无人机视觉定位与物体抓取平台开发（横向，3.5万）
+3. 2023年01月-2025年12月，博士后留深科研资助(深圳市，30万)
