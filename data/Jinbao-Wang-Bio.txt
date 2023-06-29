@@ -5,7 +5,5 @@ We are committed to applying visual technology to the human-machine interaction 
 
 Research Outcomes:
 
-Led the National Natural Science and Technology Foundation of China's "Efficient 3D Anomaly Detection Algorithm for Industrial Vision" (project number: 62206122);
-Participated in general projects such as the theory and methods of multi-modal object 3D detection and recognition based on deep learning technology;
-Published 25 papers in important international journals and conferences, such as TIP, TCSVT, Neurocomputing, ICCV, ACM MM, NeuroIPS, etc., with a total of 577 citations and 1 highly cited article. 
+Published 25 papers in important international journals and conferences, such as TIP, TCSVT, Neurocomputing, ICCV, ACM MM, NeurIPS, etc., with a total of 577 citations and 1 highly cited article. 
 Currently serving as a reviewer for top international journals such as IEEE TIP and IEEE TCSVT, as well as a member and reviewer of the AAAI, IJCAI, ACM MM, ICML, and other top artificial intelligence conference procedures committees.
