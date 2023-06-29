@@ -5,5 +5,5 @@ We are committed to applying visual technology to the human-machine interaction 
 
 Research Outcomes:
 
-Published 25 papers in important international journals and conferences, such as TIP, TCSVT, Neurocomputing, ICCV, ACM MM, NeurIPS, etc., with a total of 577 citations and 1 highly cited article. 
+Published 20+ papers in important international journals and conferences, such as TIP, TCSVT, Neurocomputing, ICCV, ACM MM, NeurIPS, etc., with a total of 600+ citations and 1 highly cited article. 
 Currently serving as a reviewer for top international journals such as IEEE TIP and IEEE TCSVT, as well as a member and reviewer of the AAAI, IJCAI, ACM MM, ICML, and other top artificial intelligence conference procedures committees.
