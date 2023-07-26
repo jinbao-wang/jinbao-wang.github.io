@@ -58,15 +58,43 @@
       </td>
     </tr>
 
+    <tr onmouseout="fedmedatl_stop()" onmouseover="fedmedatl_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='images/fedmedatl.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function fedmedatl_start() {
+            document.getElementById('fedmedatl_image').style.opacity = "1";
+          }
+          function fedmedatl_stop() {
+            document.getElementById('fedmedatl_image').style.opacity = "0";
+          }
+          fedmedatl_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="">
+          <papertitle>EasyNet: An Easy Network for 3D Industrial Anomaly Detection</papertitle>
+        </a>
+        <br>
+        Ruitao Chen*, Guoyang Xie*, Jiaqi Liu*, <strong>Jinbao Wang</strong>*, Ziqi Luo, Jinfan Wang, Feng Zheng
+        <br>
+        <em>ACM Multimedia (ACM MM)</em>, 2023
+        <br>
+        <a href="">project page</a>
+        /
+        <a href="">arXiv</a>
+        <p></p>
+        <p>
+          This paper addresses a promising and challenging task, i.e., deployment-friendly 3D-AD and proposes an easy but effective neural network (EasyNet) to achieve competitive performance without using large pre-trained models and memory banks.
+        </p>
+      </td>
+    </tr>
+
     <tr onmouseout="graphcore_stop()" onmouseover="graphcore_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <!-- <div class="two" id='graphcore_image'>
-            <video  width=100% height=100% muted autoplay loop>
-          <source src="images/bakedsdf_after.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-          </video>
-        </div> -->
           <img src='images/graphcore.png' width="160">
         </div>
         <script type="text/javascript">
