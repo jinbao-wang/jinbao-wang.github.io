@@ -134,3 +134,7 @@ span.highlight {
 underline {
   text-decoration: underline;
 }
+
+ol li {
+  text-align: justify;
+}
