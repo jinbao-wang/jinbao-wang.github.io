@@ -81,7 +81,8 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px
+  font-size: 14px;
+  text-align: justify;
 }
 
 strong {
@@ -135,6 +136,6 @@ underline {
   text-decoration: underline;
 }
 
-ol li {
+/* ol li {
   text-align: justify;
-}
+} */
